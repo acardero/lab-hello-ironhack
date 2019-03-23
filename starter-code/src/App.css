@@ -1,0 +1,56 @@
+.App {
+  margin: 1rem;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0 40px;
+}
+
+.Hero {
+  background-color: rgb(32, 37, 52);
+  color: white;
+  padding: 10px 30px;
+}
+
+.Right-hero {
+  width: 50%;
+  display: inline-block;
+  text-align: right;
+  vertical-align: top;
+}
+
+.Left-hero {
+  width: 50%;
+  display: inline-block;
+}
+
+.hero-button {
+  padding: 10px;
+  border-radius: 2px;
+  margin-bottom: 40px;
+}
+
+.hero-text {
+  width: 200px;
+  padding-bottom: 40px;
+}
+
+img {
+  width: 75px;
+  height: 75px;
+}
+
+.Footer-icon {
+  width: 18%;
+  display: inline-block;
+  vertical-align: top;
+  margin: 30px 20px;
+}
+
+.logo {
+  width: 21px;
+  height: 21px;
+}
+
+.menu {
+  width: 10px;
+  height: 10px;
+}
